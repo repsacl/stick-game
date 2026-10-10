@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00537eb5b4d4c2746bcb5ca8eb14604b, type: 3}
+  m_Name: P1
+  m_EditorClassIdentifier: 
+  character:
+  - playerName: red
+    playerColor: {r: 0.9150943, g: 0.33236915, b: 0.33236915, a: 1}
+    hat: {fileID: 0}
+  - playerName: blue
+    playerColor: {r: 0.3215112, g: 0.5243364, b: 0.8018868, a: 1}
+    hat: {fileID: 3792251484407424880, guid: 865307542216586418f69befc67d03ea, type: 3}
+  - playerName: green
+    playerColor: {r: 0.4161059, g: 0.8113208, b: 0.3023318, a: 1}
+    hat: {fileID: 0}
+  - playerName: pink
+    playerColor: {r: 0.8773585, g: 0.39315593, b: 0.84128076, a: 1}
+    hat: {fileID: 0}
+  - playerName: yellow
+    playerColor: {r: 0.9394523, g: 0.9433962, b: 0.4405482, a: 1}
+    hat: {fileID: 0}
+  - playerName: turkis
+    playerColor: {r: 0.49043253, g: 0.9509375, b: 0.9716981, a: 1}
+    hat: {fileID: 0}
