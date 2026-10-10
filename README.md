@@ -1,2 +1,2 @@
 # The Game
-This is a game i made in 2022 when i first started coding. 
+This is a game I made in 2022 when I first started coding. 
